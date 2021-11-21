@@ -16,6 +16,10 @@ form{
   border-color: black;
 }
 
+a{
+  text-decoration: underline;
+} 
+
 .input{
   font-family: 'Inter', sans-serif;
   width: 100%;
